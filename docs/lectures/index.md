@@ -2,7 +2,7 @@
 
 **Módulo 1: Introducción al Machine Learning**
 
-[[slides](https://docs.google.com/presentation/d/1F71DRQcG0FlhdC5LH0lEFsmVLRhN0dUM5anyWAeRo_4/edit?usp=sharing)]() [[video]]()
+[[slides](https://docs.google.com/presentation/d/1F71DRQcG0FlhdC5LH0lEFsmVLRhN0dUM5anyWAeRo_4/edit?usp=sharing)] [[video]()]
 
 - Qué es el Machine Learning y por qué es importante.
 - Tipos de Machine Learning: Supervisado vs. No Supervisado.
