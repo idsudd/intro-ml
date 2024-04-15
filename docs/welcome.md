@@ -6,9 +6,9 @@ Este curso está diseñado para **empoderar a profesionales en el ámbito de los
 
 Al finalizar el curso estarás equipado para contribuir efectivamente en discusiones y decisiones relacionadas con proyectos de ML, mejorando las capacidades analíticas y estratégicas de tu equipo.
 
-## Para quiénes está dirigido este curso
-
 ![Portada](assets/images/BigShoes-Torso2.png){ width="300" }
+
+## Para quiénes está dirigido este curso
 
 Si te encuentras en alguna de estas situaciones:
 
