@@ -58,11 +58,11 @@ plugins:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Welcome to the course: welcome.md
-  - Lectures:
+  - Comenzando:
+      - Bienvenida al curso: welcome.md
+  - Clases:
       - lectures/index.md
   - Material:
     - material/index.md
-  - Instructor:
+  - Instructores:
     - instructor/index.md
