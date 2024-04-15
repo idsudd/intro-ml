@@ -1,11 +1,13 @@
-name: ci 
+name: Publish the documentation
+
 on:
   push:
     branches:
-      - master 
       - main
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -25,9 +27,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: pip install -r requirements-doc.txt
       - name: Build the documentation
         env:
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
-        run: |
-          pip install -r requirements-doc.txt
-          mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force
