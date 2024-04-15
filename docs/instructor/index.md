@@ -15,4 +15,4 @@
 
 ### Contacto
 
-* alonsoastroza@gmail.com - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
+* alonsoastroza@udd.cl - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
