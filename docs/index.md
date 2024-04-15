@@ -1,3 +1,5 @@
+![Portada](assets/images/BigShoes-Torso.png){ width="300" }
+
 # Introducción a Machine Learning para profesionales
 
 ## Lo que siempre quisiste saber y nunca te atreviste a preguntar
