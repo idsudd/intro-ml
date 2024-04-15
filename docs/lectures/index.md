@@ -3,6 +3,7 @@
 **Módulo 1: Introducción al Machine Learning**
 
 [[slides]]() [[video]]()
+
 - Qué es el Machine Learning y por qué es importante.
 - Tipos de Machine Learning: Supervisado vs. No Supervisado.
 - Ejemplos de aplicación en el mundo real.
