@@ -30,7 +30,7 @@ En este curso **NO APRENDERÁS** a:
 El curso está constantemente citando a tres libros fundamentales sobre Machine Learning.
 
 - Abu-Mostafa, Y. S., Magdon-Ismail, M., & Lin, H. (2012). **Learning from data: a short course.** [United States], AMLBook.com.
-- Huyen, Chip. (2022). **Designing Machine Learning System.** [United States], O'Reilly.
-- Lakshmanan, V., Robinson, S., & Munn, M. (2020). **Machine Learning Design Patterns.** [United States], O'Reilly Media.
+- Huyen, C. (2022). **Designing Machine Learning System.** [United States], O'Reilly.
+- Lakshmanan, V., Robinson, S., & Munn, M. (2020). **Machine Learning Design Patterns.** [United States], O'Reilly.
 
 
