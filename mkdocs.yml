@@ -12,6 +12,8 @@ site_description: >-
 repo_name: idsudd/intro-ml
 repo_url: https://github.com/idsudd/intro-ml
 
+# Copyright
+copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
 
 # Configuration
 theme:
@@ -32,7 +34,6 @@ theme:
 
 # Additional configuration
 extra:
-  copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
