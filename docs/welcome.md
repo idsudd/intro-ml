@@ -21,11 +21,11 @@ Este curso es para tí. Aquí te enterarás de los primeros pasos a seguir.
 
 ## Para qué NO SIRVE este curso
 
-En este curso **NO APRENDERÁS** a:
+En este curso **NO APRENDERÁS**:
 
-* Entender en profundidad los detalles técnicos de los modelos de ML.
-* Implementar soluciones de ML mediante la escritura de código.
-* Mantener y monitorear el desempeño de modelos de ML.
+* A entender en profundidad los detalles técnicos de los modelos de ML.
+* A implementar soluciones de ML mediante la escritura de código.
+* A mantener y monitorear el desempeño de modelos de ML.
 
 ## Bibliografía Esencial
 
