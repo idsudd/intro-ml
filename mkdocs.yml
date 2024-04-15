@@ -40,7 +40,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<alonsoastroza@udd.cl>
+      link: mailto:alonsoastroza@udd.cl
 
 markdown_extensions:
   - attr_list
