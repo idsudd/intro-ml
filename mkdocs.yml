@@ -1,5 +1,5 @@
 # Site information
-site_name: Introducción a Machine Learning para profesionales
+site_name: Introducción a ML para profesionales
 site_author: Alonso Astroza
 site_description: >-
   Curso introductorio para profesionales que desean aprender sobre Machine Learning
@@ -44,7 +44,10 @@ extra:
 
 markdown_extensions:
   - attr_list
-  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 plugins:
   - search
   - section-index
