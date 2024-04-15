@@ -35,4 +35,4 @@ Durante el curso se estará constantemente citando a tres libros fundamentales s
 - Huyen, C. (2022). **Designing Machine Learning System.** [United States], O'Reilly.
 - Lakshmanan, V., Robinson, S., & Munn, M. (2020). **Machine Learning Design Patterns.** [United States], O'Reilly.
 
-Si al final del curso tienes curiosidad por aprender más, te recomendamos mucho leerlos.
+Si al final del curso tienes curiosidad por aprender más, leer estos libros es una gran idea para seguir avanzando.
