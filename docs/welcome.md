@@ -36,3 +36,6 @@ Durante el curso se estará constantemente citando a tres libros fundamentales s
 - Lakshmanan, V., Robinson, S., & Munn, M. (2020). **Machine Learning Design Patterns.** [United States], O'Reilly.
 
 Si al final del curso tienes curiosidad por aprender más, leer estos libros es una gran idea para seguir avanzando.
+<br>
+<br>
+[:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button }
