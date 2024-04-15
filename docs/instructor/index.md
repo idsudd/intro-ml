@@ -2,7 +2,7 @@
 
 ## Alonso Astroza
 
-![Alonso](../assets/images/alonso.png){ align=left, width="300" }
+![Alonso](../assets/images/alonso.png){ align=left, width="200" }
 
 * Soy Subdirector de Alianzas con Empresas en el [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Contribuyo en:
