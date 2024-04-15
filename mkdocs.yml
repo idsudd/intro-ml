@@ -1,13 +1,16 @@
 # Site information
-site_name: Course Title
-site_author: Jonh Doe
+site_name: Introducción a Machine Learning para profesionales
+site_author: Alonso Astroza
 site_description: >-
-  A very good course
+  Curso introductorio para profesionales que desean aprender sobre Machine Learning
+  sin tener conocimientos de programación. El objetivo es entregar los conceptos
+  fundamentales para que el profesional pueda contribuir efectivamente
+  en discusiones y decisiones relacionadas con proyectos de ML.
 
 
 # Repository
-repo_name: user/repository-name
-repo_url: https://github.com/user/repository-name
+repo_name: idsudd/intro-ml
+repo_url: https://github.com/idsudd/intro-ml
 
 
 # Configuration

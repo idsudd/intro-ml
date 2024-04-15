@@ -1,4 +1,3 @@
-# Course Title
+# Introducción a Machine Learning para profesionales
 
-## Installation
-
+https://idsudd.github.io/intro-ml/
