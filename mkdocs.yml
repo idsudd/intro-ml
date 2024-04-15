@@ -18,6 +18,7 @@ copyright: Copyright &copy; 2024 Instituto de Data Science, Facultad de Ingenier
 # Configuration
 theme:
   name: material
+  language: es
   icon:
     logo: material/book-heart-outline
   palette:
