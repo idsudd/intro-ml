@@ -15,7 +15,7 @@
 
 ### Contacto
 
-* :fontawesome/solid/paper-plane: alonsoastroza@udd.cl
-* :fontawesome/brands/github: [github](https://github.com/aastroza)
-* :fontawesome/brands/linkedin: [linkedin](https://www.linkedin.com/in/aastrozacl/)
-* :fontawesome/brands/x-twitter: [twitter](https://twitter.com/aastroza)
+* :fontawesome-solid-paper-plane: alonsoastroza@udd.cl
+* :fontawesome-brands-github: [github](https://github.com/aastroza)
+* :fontawesome-brands-linkedin: [linkedin](https://www.linkedin.com/in/aastrozacl/)
+* :fontawesome-brands-x-twitter: [twitter](https://twitter.com/aastroza)
