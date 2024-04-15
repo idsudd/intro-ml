@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Introducción a Machine Learning para profesionales
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Lo que siempre quisiste saber y nunca te atreviste a preguntar
 
-## Commands
+Este curso está diseñado para empoderar a profesionales en el ámbito de los datos, ofreciendo una comprensión de los conceptos centrales de Machine Learning (ML) sin la necesidad de conocimientos previos en programación.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[:fontawesome-solid-bolt: Comenzar el curso](welcome.md){ .md-button .md-button--primary }
