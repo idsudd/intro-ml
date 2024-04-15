@@ -8,6 +8,8 @@ Al finalizar el curso estarás equipado para contribuir efectivamente en discusi
 
 ## Para quiénes está dirigido este curso
 
+![Portada](assets/images/BigShoes-Torso2.png){ width="300" }
+
 Si te encuentras en alguna de estas situaciones:
 
 * Eres un profesional que debe tomar decisiones sobre algún proyecto de aprendizaje basado en datos.
