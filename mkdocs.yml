@@ -67,5 +67,10 @@ nav:
       - lectures/index.md
   - Material:
     - material/index.md
+    - ¿Qué es Machine Learning?:
+        - Definición: material/what-is-ml.md
+        - Como ocurre el Aprendizaje: material/how-does-learning-happen.md
+        - Tipos de Aprendizaje: material/types-of-ml.md
+        - Aplicaciones de Machine Learning: material/applications-of-ml.md
   - Instructores:
     - instructor/index.md
