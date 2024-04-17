@@ -10,4 +10,4 @@ No pierdas la oportunidad de preguntar sobre algún tema de tu interés y el equ
 <br>
 <br>
 
-[:fontawesome-solid-message: ¿Preguntas?](questions/index.md){ .md-button .md-button--primary }
+[:fontawesome-solid-message: ¿Preguntas?](../questions/index.md){ .md-button .md-button--primary }

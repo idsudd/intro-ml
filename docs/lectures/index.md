@@ -28,4 +28,4 @@
 <br>
 <br>
 
-[:fontawesome-solid-thumbtack: Material](material/index.md){ .md-button .md-button--primary } [:fontawesome-solid-message: ¿Preguntas?](questions/index.md){ .md-button }
+[:fontawesome-solid-thumbtack: Material](material/index.md){ .md-button .md-button--primary } [:fontawesome-solid-message: ¿Preguntas?](../questions/index.md){ .md-button }

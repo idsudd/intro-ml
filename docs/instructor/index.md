@@ -26,4 +26,4 @@ No pierdas la oportunidad de preguntarme sobre algún tema de tu interés y te r
 <br>
 <br>
 
-[:fontawesome-solid-message: ¿Preguntas?](questions/index.md){ .md-button .md-button--primary }
+[:fontawesome-solid-message: ¿Preguntas?](../questions/index.md){ .md-button .md-button--primary }
