@@ -39,4 +39,4 @@ Si al final del curso tienes curiosidad por aprender más, leer estos libros es 
 <br>
 <br>
 
-[:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button .md-button--primary } [:fontawesome-solid-question: ¿Preguntas?](questions/index.md){ .md-button }
+[:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button .md-button--primary } [:fontawesome-solid-message: ¿Preguntas?](questions/index.md){ .md-button }

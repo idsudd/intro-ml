@@ -12,4 +12,4 @@ Nuestro enfoque es proporcionarte los **conceptos clave** que te permitirán par
 <br>
 <br>
 
-[:fontawesome-solid-bolt: Comenzar el curso](welcome.md){ .md-button .md-button--primary } [:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button } [:fontawesome-solid-question: ¿Preguntas?](questions/index.md){ .md-button }
+[:fontawesome-solid-bolt: Comenzar el curso](welcome.md){ .md-button .md-button--primary } [:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button } [:fontawesome-solid-message: ¿Preguntas?](questions/index.md){ .md-button }
