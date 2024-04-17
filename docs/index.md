@@ -11,4 +11,5 @@ Este curso breve está diseñado para dotar con una sólida comprensión de los 
 Nuestro enfoque es proporcionarte los **conceptos clave** que te permitirán participar activamente y con confianza en las discusiones relacionadas con proyectos de Machine Learning en tu organización, **integrándote** plenamente en el **diálogo** y la **toma de decisiones**.
 <br>
 <br>
-[:fontawesome-solid-bolt: Comenzar el curso](welcome.md){ .md-button .md-button--primary } [:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button }
+
+[:fontawesome-solid-bolt: Comenzar el curso](welcome.md){ .md-button .md-button--primary } [:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button } [:fontawesome-solid-question: ¿Preguntas?](questions/index.md){ .md-button }

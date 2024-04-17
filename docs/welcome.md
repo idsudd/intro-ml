@@ -38,4 +38,5 @@ Durante el curso se estará constantemente citando a tres libros fundamentales s
 Si al final del curso tienes curiosidad por aprender más, leer estos libros es una gran idea para seguir avanzando.
 <br>
 <br>
-[:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button }
+
+[:fontawesome-solid-thumbtack: Clases](lectures/index.md){ .md-button .md-button--primary } [:fontawesome-solid-question: ¿Preguntas?](questions/index.md){ .md-button }

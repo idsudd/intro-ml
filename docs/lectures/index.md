@@ -25,3 +25,7 @@
 - Pasos para implementar una solución de ML en un proyecto.
 - Casos de estudio: Ejemplos de éxito en el uso de ML.
 - Herramientas y recursos para continuar aprendiendo.
+<br>
+<br>
+
+[:fontawesome-solid-thumbtack: Material](material/index.md){ .md-button .md-button--primary } [:fontawesome-solid-question: ¿Preguntas?](questions/index.md){ .md-button }
