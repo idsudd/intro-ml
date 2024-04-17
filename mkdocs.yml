@@ -73,5 +73,7 @@ nav:
         - Como ocurre el Aprendizaje: material/how-does-learning-happen.md
         - Tipos de Aprendizaje: material/types-of-ml.md
         - Aplicaciones de Machine Learning: material/applications-of-ml.md
+  - Preguntas:
+    - Haz tu pregunta: questions/index.md
   - Instructores:
     - instructor/index.md
