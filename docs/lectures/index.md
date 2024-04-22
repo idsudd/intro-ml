@@ -8,16 +8,19 @@
 - Tipos de Machine Learning: Supervisado vs. No Supervisado.
 - Ejemplos de aplicación en el mundo real.
 
-**Módulo 2: Algoritmos de Machine Learning y Selección de Modelos**
+**Módulo 2: Algoritmos de Machine Learning, Selección de Modelos y Preparación de Datos**
+
+[[slides](https://docs.google.com/presentation/d/16DDstNxtLy3c6l6bExsAapJ1f3cseSFAzGT1P9TzE1s/edit?usp=sharing)]
 
 - Principales algoritmos de Machine Learning.
 - Cómo elegir el algoritmo adecuado para tu problema.
-- Introducción a la evaluación de modelos: Overfitting y Underfitting.
-
-**Módulo 3: Preparación de Datos y Evaluación de Modelos**
-
 - Importancia de la preparación de datos en ML.
 - Creación de conjuntos de datos de entrenamiento y prueba.
+
+
+**Módulo 3: Evaluación de Modelos**
+
+- Introducción a la evaluación de modelos: Overfitting y Underfitting.
 - Evaluación de modelos usando matrices de confusión y otras métricas.
 
 **Módulo 4: Aplicación Práctica de Machine Learning**
