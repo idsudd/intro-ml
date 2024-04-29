@@ -20,13 +20,15 @@
 
 **Módulo 3: Evaluación de Modelos**
 
+[[slides](https://docs.google.com/presentation/d/1I8TqurxilVUPZ8XxkMFXStpy3uhy3yR7_ylLmpE2Ewk/edit?usp=sharing)]
+
 - Introducción a la evaluación de modelos: Overfitting y Underfitting.
 - Evaluación de modelos usando matrices de confusión y otras métricas.
 
 **Módulo 4: Aplicación Práctica de Machine Learning**
 
 - Pasos para implementar una solución de ML en un proyecto.
-- Casos de estudio: Ejemplos de éxito en el uso de ML.
+- Casos de estudio: Ejemplos de éxito en el uso de ML (ChatGPT).
 - Herramientas y recursos para continuar aprendiendo.
 <br>
 <br>
