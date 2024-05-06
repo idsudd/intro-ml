@@ -27,6 +27,8 @@
 
 **Módulo 4: Aplicación Práctica de Machine Learning**
 
+[[slides](https://docs.google.com/presentation/d/1M2CMa2SI6XSBiK7ghitW1yITDDtySA5YpppPTi5E2kM/edit?usp=sharing)]
+
 - Pasos para implementar una solución de ML en un proyecto.
 - Casos de estudio: Ejemplos de éxito en el uso de ML (ChatGPT).
 - Herramientas y recursos para continuar aprendiendo.
